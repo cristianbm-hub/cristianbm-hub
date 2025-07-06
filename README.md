@@ -11,7 +11,7 @@
   
   <p align="center">
     <em>
-        Telecommunications Engineer and FullStack Web Developer with a passion for digital transformation and the application of technology to optimize processes and deliver innovative solutions.
+        FullStack Web and AI Developer with a passion for digital transformation and the application of technology to optimize processes and deliver innovative solutions.
     </em> 
     <br>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
